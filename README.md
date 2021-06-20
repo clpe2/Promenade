@@ -1,3 +1,3 @@
 # Promenade
 
-![Configure](Promenade.png)
+![Configure](image/Promenade.png)
